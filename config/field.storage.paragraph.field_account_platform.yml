@@ -1,0 +1,22 @@
+uuid: 453c2440-4036-44d3-806e-3340acb3bc9d
+langcode: en
+status: true
+dependencies:
+  module:
+    - paragraphs
+    - taxonomy
+_core:
+  default_config_hash: GUVHTBZ_a2d6FN4W5nwttov_63ej_wjKhKRfLmvQH5k
+id: paragraph.field_account_platform
+field_name: field_account_platform
+entity_type: paragraph
+type: entity_reference
+settings:
+  target_type: taxonomy_term
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

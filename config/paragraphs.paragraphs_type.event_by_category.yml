@@ -1,0 +1,9 @@
+uuid: f14033c4-1c02-466a-a1fc-a9d35cc74da9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: U8J7P2ijvy6wN1XHf7QzwFX8IOgBnWpKtSqE7whivZs
+id: event_by_category
+label: 'Events by Category'
+behavior_plugins: {  }

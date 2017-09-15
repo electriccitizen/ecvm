@@ -1,0 +1,25 @@
+uuid: 0929fe8b-84d5-422f-a8ad-34e922261af5
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_display_style
+    - paragraphs.paragraphs_type.news_by_category
+  module:
+    - options
+_core:
+  default_config_hash: YUb_HFGrazkD40EQQd1sRt-uudTznpCfa2MfrVOGJJg
+id: paragraph.news_by_category.field_display_style
+field_name: field_display_style
+entity_type: paragraph
+bundle: news_by_category
+label: 'Display Style'
+description: ''
+required: true
+translatable: false
+default_value:
+  -
+    value: three-column
+default_value_callback: ''
+settings: {  }
+field_type: list_string

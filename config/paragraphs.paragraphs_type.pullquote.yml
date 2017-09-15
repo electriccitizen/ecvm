@@ -1,0 +1,9 @@
+uuid: 47774911-ea24-449c-951e-bfe50411ad13
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: gDuVmsYqqJ5O0fWK-BtniYeLfxlreTdd_nxfJ6gxsgk
+id: pullquote
+label: Pullquote
+behavior_plugins: {  }

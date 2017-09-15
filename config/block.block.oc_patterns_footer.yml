@@ -1,0 +1,29 @@
+uuid: 02039d7d-0cb6-4fd0-b553-f92a06ad11cb
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.footer
+  module:
+    - menu_block
+  theme:
+    - oc_patterns
+_core:
+  default_config_hash: b1YEev4sFgrNyB1POY_3_VVXyfaOG0eYtCE0qwBuzbM
+id: oc_patterns_footer
+theme: oc_patterns
+region: footer
+weight: -4
+provider: null
+plugin: 'menu_block:footer'
+settings:
+  id: 'menu_block:footer'
+  label: Footer
+  provider: menu_block
+  label_display: '0'
+  level: 1
+  depth: 1
+  expand: 0
+  parent: 'footer:'
+  suggestion: footer
+visibility: {  }

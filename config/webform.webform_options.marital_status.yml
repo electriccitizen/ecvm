@@ -1,0 +1,13 @@
+uuid: 3346c4d6-ad95-4d47-a37e-a18d74038c79
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - webform
+_core:
+  default_config_hash: bo-POVCvpUD_3ZtU_xgWe1HHHLWOLzx7CzhqD7LgyeM
+id: marital_status
+label: 'Marital status'
+category: Demographic
+options: "Single: Single\nMarried: Married\nDivorced: Divorced\nWidowed: Widowed\n"

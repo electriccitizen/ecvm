@@ -1,0 +1,12 @@
+uuid: 9ddf0d42-2932-475b-8d30-f8222cba0ab1
+langcode: en
+status: true
+dependencies:
+  module:
+    - media_entity
+_core:
+  default_config_hash: 8Sz6wkKEArYPNTjXD4ZJrQOjV4qNr8KiE2eaUlnifyM
+id: media.large_thumb
+label: 'Large Thumb'
+targetEntityType: media
+cache: true

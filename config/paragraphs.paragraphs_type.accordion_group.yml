@@ -1,0 +1,9 @@
+uuid: ae86ee62-fc4c-49d5-bd58-39593446b264
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: FhFNxBKqbZtQXblHXf44SrI1cbH_Q8OEvDbJJVLcd0M
+id: accordion_group
+label: 'Accordion Group'
+behavior_plugins: {  }

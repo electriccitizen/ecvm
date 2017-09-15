@@ -1,0 +1,9 @@
+uuid: 3126814f-e9e6-40df-b1e3-8835fc9da5ce
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: z09duKNmIUMwKjKeao4lpvK79cu0zjAYZ9mb87vBgLo
+id: form
+label: Form
+behavior_plugins: {  }

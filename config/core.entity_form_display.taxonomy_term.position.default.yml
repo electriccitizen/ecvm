@@ -1,0 +1,24 @@
+uuid: a2cee918-e3d7-417f-b0a6-1c336b1881cc
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.position
+_core:
+  default_config_hash: XENqC7FzN4MuBVpJzjvObQC-lWB2qOjnZ7-1JhfpKZk
+id: taxonomy_term.position.default
+targetEntityType: taxonomy_term
+bundle: position
+mode: default
+content:
+  name:
+    type: string_textfield
+    weight: 0
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    region: content
+hidden:
+  description: true
+  path: true

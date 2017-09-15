@@ -1,0 +1,11 @@
+uuid: f9150f2d-7818-45b0-962c-50c504c2ffa1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: B_4ZMmMGYnZlqIP5wcpyBRLgLClY5qWTTHUYWC9dXzM
+name: Position
+vid: position
+description: ''
+hierarchy: 0
+weight: 0

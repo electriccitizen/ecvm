@@ -1,0 +1,9 @@
+uuid: d1431a66-4eff-4cc7-81aa-2546b9ff485d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: egHCfUHQcCuE8hfo0jaTRVS9JefYLZs0zegZ3IfiSWs
+id: social_platform
+label: 'Social Platform'
+behavior_plugins: {  }

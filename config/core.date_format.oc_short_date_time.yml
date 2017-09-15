@@ -1,0 +1,10 @@
+uuid: 84f55b92-4d55-41b0-a509-882b91de3f6d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: sbatAbVM53uPDJw2-EwUusdehCvELssYNaC6SqWQtzI
+id: oc_short_date_time
+label: 'OC Short Date Time'
+locked: false
+pattern: 'n/d/y - g:ia'
